@@ -1,0 +1,3 @@
+global: {}
+stockbffnode:
+  replicaCount: 1
